@@ -1,0 +1,8 @@
+{
+  "name": "zero-delay-bridge",
+  "version": "1.0.0",
+  "main": "code.js",
+  "scripts": {
+    "start": "node code.js"
+  }
+}
