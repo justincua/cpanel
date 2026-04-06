@@ -1,5 +1,5 @@
 {
-  "name": "ea-panel-bridge",
+  "name": "firebase-ea-dashboard-bridge",
   "version": "1.0.0",
   "private": true,
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "firebase-admin": "^12.1.1"
   }
 }
